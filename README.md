@@ -1,2 +1,5 @@
-# LCS
-Algoritmo LCS em Ruby
+# Algoritmo em Ruby
+
+
+#### Algoritmo LCS
+#### Árvore Binária
